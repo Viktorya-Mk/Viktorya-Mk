@@ -45,7 +45,6 @@ I spent 5 years building and leading development work. I'm now applying that bac
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!-- Only list what you can talk through in an interview. Cut anything you can't. -->
 
 ---
 
