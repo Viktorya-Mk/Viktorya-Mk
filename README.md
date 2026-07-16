@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Viktorya 👋
+# Welcome, I'm Viktorya 👋
 
 ### Developer → OSINT & Threat Intelligence
 
