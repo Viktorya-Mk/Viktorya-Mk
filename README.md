@@ -16,7 +16,7 @@
 
 - 💻 5 years of dev/lead dev experience: bringing software engineering to OSINT and threat intelligence
 - 🔍 Currently focused on **OSINT**, with hands-on **threat intelligence** work (real case studies below)
-- 🛠️ [`osint-toolkit`](https://github.com/viktorya-mk/osint-toolkit) ~ Python recon tooling, actively growing
+- 🛠️ [`osint-toolkit`](https://github.com/viktorya-mk/osint-toolkit) ~ python recon tooling, actively growing
 - 📁 [`threat-intel-casefiles`](https://github.com/viktorya-mk/threat-intel-casefiles) ~ sanitized write-ups, methodology through findings
 
 
