@@ -61,7 +61,7 @@ Python scripts for OSINT recon: username footprinting, metadata/geolocation extr
 <td width="50%" valign="top">
 
 ### 🗂️ [threat-intel-casefiles](https://github.com/viktorya-mk/threat-intel-casefiles)
-Two sanitized case studies: methodology, tools, findings, and what I'd do differently next time.
+Two case studies: methodology, tools and findings.
 
 </td>
 </tr>
@@ -70,5 +70,5 @@ Two sanitized case studies: methodology, tools, findings, and what I'd do differ
 ---
 
 <div align="center">
-<sub>All techniques and tools shown here use publicly available information and lawful, ethical methods. Case studies are sanitized to remove client-identifying and sensitive details.</sub>
+<sub>All techniques and tools shown here use publicly available information and lawful, ethical methods.</sub>
 </div>
