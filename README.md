@@ -4,7 +4,7 @@
 
 ### Developer → OSINT & Threat Intelligence
 
-*5 years as a dev/lead dev. Now pointing that at investigation.*
+*4+ years as a dev/lead dev. Now pointing that at investigation.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktorya-mkrtchyan-509134221/)
 
