@@ -68,3 +68,6 @@ Small Python tools for OSINT work, including an image metadata manager with GPS 
 <div align="center">
 <sub>All techniques and tools shown here use lab environments or publicly available information, and lawful, ethical methods.</sub>
 </div>
+
+<img width="921" height="942" alt="image" src="https://github.com/user-attachments/assets/ff9246da-0edb-4816-848b-e68aeafa54f2" />
+
