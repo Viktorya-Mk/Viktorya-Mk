@@ -50,13 +50,13 @@ Hands-on testing of XSS, IDOR and JWT flaws in a deliberately vulnerable app, wi
 </td>
 <td width="33%" valign="top">
 
-### 🗂️ [threat-intel-casefiles](https://github.com/viktorya-mk/threat-intel-casefiles)
+### 🗂️ [Threat intel casefiles](https://github.com/viktorya-mk/threat-intel-casefiles)
 Threat intelligence case studies built from public reporting: methodology, ATT&CK mapping and findings.
 
 </td>
 <td width="33%" valign="top">
 
-### 🧰 [osint-toolkit](https://github.com/viktorya-mk/osint-toolkit)
+### 🧰 [Osint-toolkit](https://github.com/viktorya-mk/osint-toolkit)
 Small Python tools for OSINT work, including an image metadata manager with GPS decoding.
 
 </td>
