@@ -44,7 +44,7 @@ Everything here is a work in progress and keeps growing as I learn.
 <tr>
 <td width="33%" valign="top">
 
-### 🧪 [Juice Shop write-up](https://github.com/viktorya-mk/juice-shop-web-app-security-testing)
+### 🧪 [Web security write-up](https://github.com/viktorya-mk/juice-shop-web-app-security-testing)
 Hands-on testing of XSS, IDOR and JWT flaws in a deliberately vulnerable app, with screenshots, findings and fixes.
 
 </td>
