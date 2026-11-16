@@ -2,7 +2,7 @@
 
 # Welcome, I'm Viktorya 👋
 
-### Developer → Security & Investigations
+### Developer → Cybersecurity
 
 *A developer's take on cybersecurity: labs, write-ups and small tools.*
 
