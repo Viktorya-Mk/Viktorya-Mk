@@ -54,11 +54,19 @@ Hands-on testing of XSS, IDOR and JWT flaws in a deliberately vulnerable app, wi
 Threat intelligence case studies built from public reporting: methodology, ATT&CK mapping and findings.
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 ### 🧰 [Osint-toolkit](https://github.com/viktorya-mk/osint-toolkit)
 Small Python tools for OSINT work, including an image metadata manager with GPS decoding.
 
+</td>
+<td width="33%" valign="top">
+
+### 🔎 [OSINT Industries CTF write-ups](https://github.com/viktorya-mk/osint-industries-ctf-write-up)
+Step-by-step walkthroughs of OSINT challenges.
+ 
 </td>
 </tr>
 </table>
